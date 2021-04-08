@@ -5,7 +5,7 @@
 
 @media (min-width: 768px) {
     .pc_logo {
-    background: url('imgs/d_l2_logo_p.png');
+    background: url('img/d_l2_logo_p.png');
     background-size: cover;
   }
 }
@@ -16,7 +16,7 @@
 }
 @media (min-width: 768px) {
     .foot_logo {
-        background: url('imgs/foot_p.png'); 
+        background: url('img/foot_p.png'); 
         background-size: cover;
   }
 }
